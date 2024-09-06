@@ -5,8 +5,6 @@ Este repositório contém um Dockerfile que cria uma imagem Docker, configurada 
 ## Funcionalidades
 
 - Baseada em **Cypress/latest**
-- Instalação do **Node.js** (versão 20.17.0)
-- Instalação do **Cypress** com suporte a tags de teste
 - Instalação do **Allure Commandline** para geração de relatórios
 - Configurada para executar um script personalizado `entrypoint.sh` ao iniciar o contêiner
 
